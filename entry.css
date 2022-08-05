@@ -24,8 +24,19 @@ header{
     font-size: small;
 }
 
+main{
+    margin-bottom: 30px;
+}
+
 main>p{
     margin: auto;
     margin-bottom: 20px;
     width: 70%;
+}
+
+footer{
+    color: grey;
+    font-size: small;
+    text-align: center;
+    padding: 20px 0px;
 }
