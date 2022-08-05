@@ -13,6 +13,13 @@ header{
     margin: 20px 0px;
 }
 
+#footer {
+    color: grey;
+    font-size: small;
+    text-align: center;
+    padding: 20px 0px;
+}
+
 #heading{
     font-weight: 700;
     font-size: 1.75rem;
@@ -28,15 +35,8 @@ main{
     margin-bottom: 30px;
 }
 
-main>p{
+main>p {
     margin: auto;
     margin-bottom: 20px;
     width: 70%;
-}
-
-#footer{
-    color: grey;
-    font-size: small;
-    text-align: center;
-    padding: 20px 0px;
 }
