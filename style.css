@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    box-sizing: border-box ;
+}
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header{
+    text-align: center;
+    position: sticky;
+    top: 0;
+    font-size: 1.75rem;
+    font-weight: 500;
+    padding: 12px 0px;
+    margin-bottom: 15px;
+    color: white;
+    background-color: black;
+}
+
+main{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    margin-bottom: 15px;
+}
+
+a{
+    all: unset;
+}
+
+a:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+ul{
+    font-size: 1.25rem;
+    margin: auto;
+}
+
+ul>li{
+    margin: 12px 0px;
+}
